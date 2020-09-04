@@ -14,7 +14,7 @@ If you're new to Hooks, you might want to check out [the overview](/docs/hooks-o
 
 - [Basic Hooks](#basic-hooks)
   - [`useState`](#usestate)
-  - [`useEffect`](#useeffect)
+  - [`useEffect`](#useeffect-useeffect)
   - [`useContext`](#usecontext)
 - [Additional Hooks](#additional-hooks)
   - [`useReducer`](#usereducer)
